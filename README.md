@@ -56,7 +56,7 @@ npm run dev
 ## Contact
 
 - Email: aida.kokko@outlook.com
-- Phone: +358 45 787 77371
+- Phone: +358 45 123 45678
 - Location: Tampere, Finland
 - LinkedIn: [Aida Kokko](https://www.linkedin.com/in/aida-kokko/)
 
